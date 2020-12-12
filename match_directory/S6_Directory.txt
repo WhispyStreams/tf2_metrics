@@ -1,0 +1,96 @@
+RGL HL Invite Season 6
+
+
+
+Week 1: PL_UPWARD
+
+I Hate Mondays				vs	Man Crush Monday			 STVs: 3	logs: http://logs.tf/2589407
+Krusty Krab eSports			vs	squirtyay					[private]	logs: http://logs.tf/2589302
+Pop Your Pipes!				vs	Order of the White Lotus	[private]	logs: http://logs.tf/2589331
+Impostors					vs	Team Whyte					 STVs: 2	logs: http://logs.tf/2589184 http://logs.tf/2589233
+
+
+Week 2: KOTH_LAKESIDE_FINAL
+
+Order of the White Lotus	vs	Impostors					[private]	logs: https://logs.tf/2597840
+Team Whyte					vs	I Hate Mondays				[private]	logs: https://logs.tf/2597683
+squirtyay					vs	Pop Your Pipes!				 STVs: 2	logs: https://logs.tf/2597634
+Man Crush Monday			vs	Krusty Krab eSports			 STVs: 2	logs: https://logs.tf/2597672
+
+
+Week 3: PL_VIGIL_RC7
+
+Home Depot eSports			vs	Man Crush Monday			 STVs: 2	logs: http://logs.tf/2606038
+I Hate Mondays				vs	Krusty Krab eSports			 STVs: 3	logs: http://logs.tf/2606040
+Impostors					vs	squirtyay					 STVs: 2	logs: http://logs.tf/2606053
+Team Whyte					vs	Order of the White Lotus	 [forfeit]	logs: N/A
+
+
+Week 4: KOTH_ASHVILLE_RC2B
+
+Krusty Krab eSports			vs	Home Depot eSports			[private]	logs: http://logs.tf/2613924 http://logs.tf/2613980
+squirtyay					vs	BYE WEEK					[forfeit]	logs: N/A
+Man Crush Monday			vs	Impostors					 STVs: 2	logs: http://logs.tf/2614079
+Order of the White Lotus	vs	I Hate Mondays				 STVs: 3	logs: http://logs.tf/2614136
+
+
+Week 5: PL_SWIFTWATER_FINAL1
+
+Order of the White Lotus	vs	squirtyay					 STVs: 3	logs: http://logs.tf/2622648	
+Impostors					vs	Krusty Krab eSports			 STVs: 2	logs: http://logs.tf/2622573
+BYE WEEK					vs	Man Crush Monday			[forfeit]	logs: N/A
+I Hate Mondays				vs	Home Depot eSports			 STVs: 2	logs: https://logs.tf/2628836
+
+
+Week 6: KOTH_PRODUCT_RCX
+
+Krusty Krab eSports			vs	BYE WEEK					[forfeit]	logs: N/A
+Man Crush Monday			vs	Order of the White Lotus	[private]	logs: http://logs.tf/2630607
+squirtyay					vs	I Hate Mondays				[private]	logs: http://logs.tf/2630569
+Home Depot eSports			vs	Impostors					 STVs: 2	logs: http://logs.tf/2630623
+
+
+Week 7: CP_STEEL
+
+BYE WEEK					vs	Home Depot eSports			[forfeit]	logs: N/A
+I Hate Mondays				vs	Impostors					 STVs: 3	logs: http://logs.tf/2638614
+Order of the White Lotus	vs	Krusty Krab eSports			[private]	logs: http://logs.tf/2638512 http://logs.tf/2638590 http://logs.tf/2638646
+squirtyay					vs	Man Crush Monday			 STVs: 1	logs: http://logs.tf/2638578
+
+
+Week 8: PLAYOFFS 1
+
+Krusty Krab eSports			vs	Impostors
+	PL_SWIFTWATER_FINAL1									STVs: 1/2	logs: http://logs.tf/2645812 http://logs.tf/2645891
+	PL_UPWARD												STVs: 1/2	logs: http://logs.tf/2645935 http://logs.tf/2645978
+
+Man Crush Monday			vs	squirtyay					
+	KOTH_PRODUCT_RCX										 STVs: 1	logs: http://logs.tf/2645803
+	PL_SWIFTWATER_FINAL1									 STVs: 2	logs: http://logs.tf/2645951
+
+
+Week 9: PLAYOFFS 2
+
+Krusty Krab eSports			vs	Man Crush Monday
+	PL_VIGIL_RC7											[private]	logs: http://logs.tf/2653145
+	KOTH_PRODUCT_RCX										[private]	logs: http://logs.tf/2653162
+
+squirtyay					vs	Impostors
+	PL_UPWARD												[private]	logs: http://logs.tf/2653137
+	KOTH_PRODUCT_RCX										[private]	logs: http://logs.tf/2653164
+
+
+Week 10: PLAYOFFS 3
+
+Krusty Krab eSports			vs	squirtyay
+	PL_UPWARD												[private]	logs: http://logs.tf/2659899
+	KOTH_LAKESIDE_FINAL										[private]	logs: http://logs.tf/2659927
+	
+
+Week 11: PLAYOFFS 4
+
+Man Crush Monday			vs	Krusty Krab eSports
+	PL_VIGIL_RC7											 STVs: 2	logs: http://logs.tf/2666644
+	KOTH_ASHVILLE_RC2B										 STVs: 1	logs: http://logs.tf/2666692
+	CP_STEEL												 STVs: 3	logs: http://logs.tf/2666743
+

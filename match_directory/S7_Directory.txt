@@ -1,0 +1,98 @@
+RGL HL Invite Season 7
+
+
+
+Week 1: PL_VIGIL_RC7
+
+Burger Squad					vs	Pyongyang Pyonggang			 	 STVs: 3	logs: http://logs.tf/2701293
+Cuties							vs	Memento Mori					 STVs: 2	logs: http://logs.tf/2701176
+refrigerator					vs	Impostors						 STVs: 2	logs: http://logs.tf/2701199
+Kids Next Door					vs	Super Handsome Inteligent Team	[private]	logs: http://logs.tf/2701227
+
+
+Week 2: KOTH_ASHVILLE_RC2B
+
+Impostors						vs	Kids Next Door				 	 STVs: 2	logs: http://logs.tf/2707694
+Super Handsome Inteligent Team	vs	Burger Squad					 STVs: 2	logs: http://logs.tf/2707647
+Memento Mori					vs	refrigerator					 STVs: 1	logs: http://logs.tf/2707648
+Pyongyang Pyonggang				vs	Cuties							 STVs: 2	logs: http://logs.tf/2707660
+
+
+Week 3: PL_SWIFTWATER_FINAL1
+
+Kids Next Door					vs	Memento Mori					[private]	logs: http://logs.tf/2714592
+refrigerator					vs	My Net Graph Is A War Crime		 STVs: 3	logs: http://logs.tf/2714640
+Burger Squad					vs	Cuties							 STVs: 2	logs: http://logs.tf/2714525
+Super Handsome Inteligent Team	vs	Impostors						[forfeit]	logs: N/A
+
+
+Week 4: KOTH_PRODUCT_RCX
+
+Cuties							vs	refrigerator					 STVs: 2	logs: http://logs.tf/2721809
+Memento Mori					vs	Super Handsome Inteligent Team	[forfeit]	logs: N/A
+My Net Graph Is A War Crime		vs	Kids Next Door				 	[private]	logs: http://logs.tf/2721845
+Impostors						vs	Burger Squad					 STVs: 3	logs: http://logs.tf/2721859
+
+
+Week 5: PL_UPWARD
+
+Impostors						vs	Memento Mori					 STVs: 2	logs: http://logs.tf/2729315
+Kids Next Door					vs	Cuties							 STVs: 3	logs: http://logs.tf/2729393
+Super Handsome Inteligent Team	vs	My Net Graph Is A War Crime		[forfeit]	logs: N/A
+Burger Squad					vs	refrigerator					 STVs: ?	logs: http://logs.tf/2729281
+
+
+Week 6: KOTH_CASCADE_RC1A
+
+Cuties							vs	Super Handsome Inteligent Team	[forfeit]	logs: N/A
+My Net Graph Is A War Crime		vs	Impostors						 STVs: 2 	logs: https://logs.tf/2736447
+Memento Mori					vs	Burger Squad				 	 STVs: 2	logs: https://logs.tf/2736432
+refrigerator					vs	Kids Next Door					 STVs: 2	logs: https://logs.tf/2736409
+
+
+Week 7: CP_STEEL
+
+Super Handsome Inteligent Team	vs	refrigerator					[forfeit]	logs: N/A
+Burger Squad					vs	Kids Next Door					[private]	logs: https://logs.tf/2745847 https://logs.tf/2745906
+Impostors						vs	Cuties							 STVs: 2	logs: https://logs.tf/2745918
+Memento Mori					vs	My Net Graph Is A War Crime		 STVs: 2	logs: https://logs.tf/2745960
+
+
+
+Week 8: PLAYOFFS 1
+
+Cuties							vs	refrigerator
+	KOTH_PRODUCT_RCX												 STVs: 1	logs: https://logs.tf/2752896
+	PL_UPWARD														 STVs: 3	logs: https://logs.tf/2753082
+	
+Kids Next Door					vs	Memento Mori
+	KOTH_PRODUCT_RCX												 STVs: 1	logs: https://logs.tf/2752886
+	PL_UPWARD														 STVs: 2	logs: https://logs.tf/2753038
+
+
+								
+Week 9: PLAYOFFS 2
+
+Cuties							vs	Kids Next Door
+	KOTH_ASHVILLE_RC2B												 STVs: 1	logs: https://logs.tf/2759691
+	PL_SWIFTWATER_FINAL1											 STVs: 2 	logs: https://logs.tf/2759835
+	PL_VIGIL														 STVs: 3	logs: https://logs.tf/2759909
+	
+Memento Mori					vs	refrigerator
+	PL_UPWARD														 STVs: 1 	logs: https://logs.tf/2759763
+	CP_STEEL														 STVs: 1 	logs: https://logs.tf/2759779 https://logs.tf/2759791
+
+
+Week 10: PLAYOFFS 3
+
+refrigerator					vs	Kids Next Door
+	PL_UPWARD														 STVs: 3 	logs: https://logs.tf/2766220
+	KOTH_CASCADE_RC1A												 STVs: 1 	logs: https://logs.tf/2766233
+
+
+Week 11: PLAYOFFS 4
+
+Memento Mori					vs	Kids Next Door
+	CP_STEEL														 STVs: ?	logs: https://logs.tf/2772525
+	PL_VIGIL_RC7													 STVs: ?	logs: https://logs.tf/2772607
+	KOTH_PRODUCT_RCX												 STVs: ?	logs: https://logs.tf/2772615

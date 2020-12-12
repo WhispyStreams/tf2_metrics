@@ -1,0 +1,97 @@
+RGL HL Invite Season 3
+
+
+
+Week 1: KOTH_ASHVILLE_RC1
+
+bffl's best friends forever	vs	Next Gen Flow				[private]	logs: http://logs.tf/2297159
+"Impostors"					vs	Shroom GANG					[private]	logs: http://logs.tf/2297230
+The Specimens				vs	Apolodosh					 STVs: 2	logs: http://logs.tf/2297219
+Kids Next Door				vs	Invidus						[private]	logs: http://logs.tf/2297152 http://logs.tf/2297187
+
+
+
+Week 2: PL_SWIFTWATER_FINAL1
+
+Next Gen Flow				vs	Apolodosh					[private]	logs: http://logs.tf/2302545
+bffl's best friends forever	vs	"Impostors"					 STVs: 3	logs: http://logs.tf/2302580
+The Specimens				vs	Kids Next Door				 STVs: 2	logs: http://logs.tf/2302586
+Invidus						vs	Shroom GANG					 STVs: 2	logs: http://logs.tf/2302603
+
+
+
+Week 3: KOTH_CASCADE_RC1A
+
+Next Gen Flow				vs	Kids Next Door				[private]	logs: http://logs.tf/2307811 http://logs.tf/2307834
+bffl's best friends forever	vs	Shroom GANG					 STVs: 2	logs: http://logs.tf/2308091	
+"Impostors"					vs	Apolodosh					[private]	logs: http://logs.tf/2307903
+Invidus						vs	The Specimens				 STVs: 2	logs: http://logs.tf/2307936
+
+
+Week 4: PL_VIGIL_RC5
+
+Next Gen Flow				vs	The Specimens				[private]	logs: http://sizzlingstats.com/stats/587507
+Invidus						vs	bffl's best friends forever	 STVs: 3	logs: http://logs.tf/2313372
+Kids Next Door				vs	"Impostors"					[private]	logs: http://logs.tf/2313248 http://logs.tf/2313304
+Apolodosh					vs	Shroom GANG					 STVs: 2	logs: http://logs.tf/2313306
+
+
+Week 5: KOTH_PRODUCT_RC9
+
+Next Gen Flow				vs	Invidus						[private]	logs: http://logs.tf/2318646
+Apolodosh					vs	bffl's best friends forever	 STVs: 2	logs: http://logs.tf/2318650
+"Impostors"					vs	The Specimens				[private]	logs: http://logs.tf/2318632
+Shroom GANG					vs	Kids Next Door				 STVs: 2	logs: http://logs.tf/2318572 http://logs.tf/2318590
+
+
+Week 6: PL_UPWARD
+
+Shroom GANG					vs	Next Gen Flow				 STVs: 2	logs: http://logs.tf/2323709
+The Specimens				vs	bffl's best friends forever	[forfeit]	logs: N/A
+Invidus						vs	"Impostors"					[private]	logs: http://logs.tf/2323685
+Kids Next Door				vs	Apolodosh					 STVs: 2	logs: http://logs.tf/2323632 http://logs.tf/2323678
+
+
+Week 7: CP_STEEL
+	
+"Impostors"					vs	Next Gen Flow				[private]	logs: http://logs.tf/2329127
+Kids Next Door				vs	bffl's best friends forever	STVs: 1/2	logs: http://logs.tf/2328937 http://logs.tf/2328982
+Shroom GANG					vs	The Specimens				[forfeit]	logs: N/A
+Apolodosh					vs	Invidus						[private]	logs: http://logs.tf/2329038
+
+
+Week 8: QUARTERFINALS
+
+Apolodosh					vs	The Specimens
+	KOTH_CASCADE_RC1A										  STVs: 1	logs: http://logs.tf/2334321
+	CP_STEEL												 [private]	logs: http://logs.tf/2334476
+	PL_SWIFTWATER_FINAL1									 [private]	logs: http://logs.tf/2334477
+
+Kids Next Door				vs	Invidus
+	PL_UPWARD												 STVs: 2	logs: http://logs.tf/2334283 http://logs.tf/2334310
+	PL_SWIFTWATER_FINAL1									STVs: 1/2	logs: http://logs.tf/2334354 http://logs.tf/2334371
+
+	
+Week 9: SEMIFINALS
+
+The Specimens				vs	Invidus
+	KOTH_ASHVILLE_RC1										 STVs: 1	logs: http://logs.tf/2339290
+	PL_VIGIL_RC5											 STVs: 2	logs: http://logs.tf/2339332 http://logs.tf/2339360
+		
+Kids Next Door				vs	Apolodosh
+	PL_UPWARD												[private]	logs: http://logs.tf/2339287 http://logs.tf/2339319
+	KOTH_CASCADE_RC1A										[private]	logs: http://logs.tf/2339347
+	
+	
+Week 10: LOWER BRACKET FINALS
+
+Apolodosh					vs	The Specimens
+	PL_VIGIL_RC5											 STVs: 3	logs: http://logs.tf/2344265 http://logs.tf/2344286 http://logs.tf/2344310
+	KOTH_PRODUCT_RCX										 STVs: 1	logs: http://logs.tf/2344326
+
+
+Week 11: GRAND FINALS
+
+Kids Next Door				vs	Apolodosh
+	PL_SWIFTWATER_FINAL1									 STVs: 2	logs: http://logs.tf/2349951
+	KOTH_ASHVILLE_RC1										 STVs: 1	logs: http://logs.tf/2349975

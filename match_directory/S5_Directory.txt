@@ -1,0 +1,96 @@
+RGL HL Invite Season 5
+
+
+
+Week 1: PL_UPWARD
+
+Kingdom Death Monster	vs	Turtle Beach Audio		[private]	logs: http://logs.tf/2469306
+Sweatshop Sadface :(	vs	Man Crush Monday		[corrupt]	logs: http://logs.tf/2469317
+Team King Chungus		vs	Fred VI					[private]	logs: http://logs.tf/2469291
+Impostors				vs	Chill Penguins			[private]	logs: http://logs.tf/2469316
+
+
+Week 2: KOTH_ASHVILLE_RC1_NB4
+
+Man Crush Monday		vs	Kingdom Death Monster	[private]	logs: http://logs.tf/2474102
+Turtle Beach Audio		vs	Team King Chungus		 STVs: 3	logs: http://logs.tf/2474112
+Fred VI					vs	Impostors				[private]	logs: http://logs.tf/2474077
+Chill Penguins			vs	Sweatshop Sadface :(	[private]	logs: http://logs.tf/2474104
+
+
+Week 3: PL_SWIFTWATER_FINAL1
+
+Kingdom Death Monster	vs	Team King Chungus		[private]	logs: http://logs.tf/2479585
+Impostors				vs	Turtle Beach Audio		 STVs: 2	logs: http://logs.tf/2479570
+Man Crush Monday		vs	Chill Penguins			[private]	logs: http://logs.tf/2479614
+Sweatshop Sadface :(	vs	Fred VI					[private]	logs: http://logs.tf/2479551
+
+
+Week 4: KOTH_CASCADE_RC1A
+
+Chill Penguins			vs	Kingdom Death Monster	[private]	logs: http://logs.tf/2490050
+Turtle Beach Audio		vs	Sweatshop Sadface :(	 STVs: 2	logs: http://logs.tf/2484733
+Fred VI					vs	Man Crush Monday		[private]	logs: http://logs.tf/2484703
+Team King Chungus		vs	Impostors				 STVs: 3	logs: http://logs.tf/2484752
+
+
+Week 5: PL_VIGIL_RC7
+
+Kingdom Death Monster	vs	Impostors				[private]	logs: http://logs.tf/2490034
+Man Crush Monday		vs	Turtle Beach Audio		[private]	logs: http://logs.tf/2489839
+Chill Penguins			vs	Fred VI					[forfeit]	logs: N/A
+Sweatshop Sadface :(	vs	Team King Chungus		 STVs: 3	logs: http://logs.tf/2489850
+
+
+Week 6: KOTH_LAKESIDE_FINAL
+
+Fred VI					vs	Kingdom Death Monster	[private]	logs: http://logs.tf/2495425
+Turtle Beach Audio		vs	Chill Penguins			[private]	logs: http://logs.tf/2495448
+Team King Chungus		vs	Man Crush Monday		[private]	logs: http://logs.tf/2495444
+Impostors				vs	Sweatshop Sadface :(	 STVs: 3	logs: http://logs.tf/2495453
+
+
+Week 7: CP_STEEL
+
+Kingdom Death Monster	vs	Sweatshop Sadface :(	[private]	logs: http://logs.tf/2501965 http://logs.tf/2501971
+Fred VI					vs	Turtle Beach Audio		[private]	logs: http://logs.tf/2502020
+Man Crush Monday		vs	Impostors				 STVs: 3	logs: http://logs.tf/2502052
+Chill Penguins			vs	Team King Chungus		[private]	logs: http://logs.tf/2501957 http://logs.tf/2501988
+
+
+	
+
+Week 8: Playoffs
+
+Kingdom Death Monster	vs	Man Crush Monday
+	PL_UPWARD										[private]	logs: http://logs.tf/2508870 http://logs.tf/2508902 http://logs.tf/2508942
+	KOTH_LAKESIDE_FINAL								[private]	logs: http://logs.tf/2508963
+
+Fred VI					vs	Turtle Beach Audio
+	CP_STEEL										[private]	logs: http://logs.tf/2508919
+	KOTH_CASCADE_RC1A								[private]	logs: http://logs.tf/2508934
+
+
+Week 9: Playoffs
+
+Kingdom Death Monster	vs	Fred VI
+	PL_VIGIL_RC7									[private]	logs: http://logs.tf/2516247
+	KOTH_CASCADE_RC1A								[private]	logs: http://logs.tf/2516263
+
+Turtle Beach Audio		vs	Man Crush Monday
+	PL_VIGIL_RC7									 STVs: 2	logs: http://logs.tf/2516159 http://logs.tf/2516187
+	KOTH_ASHVILLE_RC1_NB7							 STVs: 1	logs: http://logs.tf/2516219
+
+	
+Week 10: Playoffs
+
+Fred VI					vs	Man Crush Monday
+	PL_SWIFTWATER_FINAL1							 STVs: 3	logs: http://logs.tf/2524795
+	KOTH_LAKESIDE_FINAL								 STVs: 1	logs: http://logs.tf/2524843
+
+
+Week 11: Finals
+
+Kingdom Death Monster	vs	Fred VI
+	PL_VIGIL_RC7									[private]	logs: http://logs.tf/2530788 http://logs.tf/2530802
+	KOTH_CASCADE_RC1A								[private]	logs: http://logs.tf/2530820

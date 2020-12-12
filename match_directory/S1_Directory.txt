@@ -1,0 +1,85 @@
+RGL HL Invite Season 1
+
+
+
+Week 1: KOTH_PRODUCT_RC9
+
+Galactic Kids Next Door vs The Faction	[Private]	logs: http://logs.tf/2114329
+Chill Penguins vs Apolodosh		[Private]	logs: http://logs.tf/2114363
+IRENE vs Fast Forward			[STV]
+
+Week 2: STOPWATCH
+
+Galactic Kids Next Door vs Fast Forward	[STV]
+Apolodosh vs IRENE			[Private]	logs: http://logs.tf/2119224
+The Faction vs Chill Penguins		[Private]	logs: http://logs.tf/2119171
+
+Week 3: KOTH
+
+Galactic Kids Next Door vs IRENE	[STV]
+Fast Forward vs Chill Penguins		[STV]	logs: http://logs.tf/2132589
+Apolodosh vs The Faction		 [Partial]	logs: http://logs.tf/2124266
+
+Week 4: PL_UPWARD
+
+Galactic Kids Next Door vs Apolodosh	[Private]	logs: http://logs.tf/2129115
+The Faction vs Fast Forward		[STV]
+Chill Penguins vs IRENE			[Private]	logs: http://logs.tf/2129154
+
+Week 5: KOTH
+
+Galactic Kids Next Door vs Chill Penguins	[Private]	logs: http://logs.tf/2134026
+IRENE vs The Faction			[STV]
+Fast Forward vs Apolodosh		[STV]
+
+Week 6: STOPWATCH
+
+IRENE vs Galactic Kids Next Door	[STV]
+Chill Penguins vs Fast Forward		[STV]
+The Faction vs Apolodosh		[Forfeit]
+
+Week 7: KOTH
+
+Apolodosh vs Galactic Kids Next Door	[Private]	logs: http://logs.tf/2143349 http://logs.tf/2143366
+IRENE vs Chill Penguins			[Private]	logs: http://logs.tf/2143357 http://logs.tf/2143334
+Fast Forward vs The Faction		[Forfeit]
+
+Week 8: Stopwatch
+
+The Faction vs Galactic Kids Next Door	[Forfeit]
+Apolodosh vs Chill Penguins		[Private]	logs: http://logs.tf/2148033
+Fast Forward vs IRENE			[STV]
+
+Week 9: KOTH
+
+Fast Forward vs Galactic Kids Next Door	[STV]
+Chill Penguins vs The Faction		[Forfeit]
+IRENE vs Apolodosh			[STV]
+
+Week 10: CP_STEEL
+
+Chill Penguins vs Galactic Kids Next Door	[STV]
+Apolodosh vs Fast Forward		[STV]
+The Faction vs IRENE			[Forfeit]
+
+
+Week 11: QUARTERFINALS
+
+Fast Forward			vs	Apolodosh
+	KOTH_PRODUCT_RC9					[Private]	logs: http://logs.tf/2161872
+	PL_UPWARD							[Private]	logs: http://logs.tf/2161902 http://logs.tf/2161917
+
+
+Week 12: SEMIFINALS
+
+IRENE					vs	Apolodosh
+	CP_STEEL							 STVs: 2	logs: http://logs.tf/2166216 http://logs.tf/2166232
+	KOTH_LAKESIDE_FINAL					 STVs: 1	logs: http://logs.tf/2166259
+
+
+Week 13: GRAND FINALS
+
+Galactic Kids Next Door	vs	IRENE
+	PL_UPWARD							 STVs: 2	logs: http://logs.tf/2170579 http://logs.tf/2170593
+	KOTH_CASCADE_RC1A					 STVs: 1	logs: http://logs.tf/2170607
+

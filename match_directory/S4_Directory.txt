@@ -1,0 +1,96 @@
+RGL HL Invite Season 4
+
+
+
+Week 1: PL_SWIFTWATER_FINAL1
+
+Second Wind						vs	Fred V: The Brampton Warriors	[private]	logs: http://logs.tf/2387983
+Burgers & Homies				vs	Amicitia Nova					 STVs: 3	logs: http://logs.tf/2388033
+Apolodosh						vs	Impostors						 STVs: 2	logs: http://logs.tf/2388013
+Dunk Masters					vs	:squirtyay:						 STVs: 3	logs: http://logs.tf/2388030
+Super Handsome Inteligent Team	vs	BYE WEEK						[forfeit]	logs: N/A
+
+Week 2: KOTH_ASHVILLE_RC1
+
+Fred V: The Brampton Warriors	vs	Dunk Masters					[private]	logs: http://logs.tf/2392592
+Amicitia Nova					vs	:squirtyay:						 STVs: 2	logs: http://logs.tf/2392612
+Apolodosh						vs	Super Handsome Inteligent Team	 STVs: 2	logs: http://logs.tf/2392600
+Burgers & Homies				vs	Impostors						 STVs: 2	logs: http://logs.tf/2393775
+Second Wind						vs	Heart Throbs					 STVs: 3	logs: http://logs.tf/2392625
+
+
+Week 3: PL_UPWARD
+
+Apolodosh						vs	Fred V: The Brampton Warriors	STVs: 1/2	logs: http://logs.tf/2397642
+Amicitia Nova					vs	Super Handsome Inteligent Team	[private]	logs: http://logs.tf/2397627
+Burgers & Homies				vs	:squirtyay:						[private]	logs: http://logs.tf/2397645
+Impostors						vs	Second Wind						 STVs: 2	logs: http://logs.tf/2398148
+Heart Throbs					vs	BYE WEEK						[forfeit]	logs: N/A
+
+Week 4: KOTH_LAKESIDE_FINAL
+
+Fred V: The Brampton Warriors	vs	Impostors						 STVs: 2	logs: http://logs.tf/2402585
+Apolodosh						vs	Amicitia Nova					 STVs: 2	logs: http://logs.tf/2402594
+:squirtyay:						vs	Second Wind						 STVs: 2	logs: http://logs.tf/2402586
+Heart Throbs					vs	Super Handsome Inteligent Team	[forfeit]	logs: N/A
+Burgers & Homies				vs	BYE WEEK						[forfeit]	logs: N/A
+
+Week 5: PL_VIGIL_RC6
+
+Fred V: The Brampton Warriors	vs	Amicitia Nova					 STVs: 2	logs: http://logs.tf/2407485
+Super Handsome Inteligent Team	vs	Impostors						[private]	logs: http://logs.tf/2407484
+Apolodosh						vs	:squirtyay:						STVs: 1/2	logs: http://logs.tf/2407507
+Burgers & Homies				vs	Second Wind						[private]	logs: http://logs.tf/2407439 http://logs.tf/2407468
+
+
+Week 6: KOTH_PRODUCT_RCX
+
+Fred V: The Brampton Warriors	vs	Super Handsome Inteligent Team	[private]	logs: http://logs.tf/2412022
+Amicitia Nova					vs	Second Wind						 STVs: 2	logs: http://logs.tf/2412031
+Apolodosh						vs 	Burgers & Homies				[private]	logs: http://logs.tf/2411984
+:squirtyay:						vs	Impostors						 STVs: 2	logs: http://logs.tf/2412010
+
+
+Week 7: CP_STEEL
+
+Fred V: The Brampton Warriors	vs	Burgers & Homies				[private]	logs: http://logs.tf/2416376
+Amicitia Nova					vs	Impostors						 STVs: 2	logs: http://logs.tf/2416853
+Super Handsome Inteligent Team	vs	:squirtyay:						 STVs: 3	logs: http://logs.tf/2416420
+Apolodosh						vs	Second Wind						 STVs: 3	logs: http://logs.tf/2416417
+
+
+Week 8: QUARTERFINALS
+
+Fred V: The Brampton Warriors	vs	Amicitia Nova
+	KOTH_LAKESIDE_FINAL												 STVs: 1	logs: http://logs.tf/2420874
+	PL_UPWARD														 STVs: 2	logs: http://logs.tf/2420952
+
+Apolodosh						vs	:squirtyay:
+	PL_UPWARD														 STVs: 2	logs: http://logs.tf/2420876 http://logs.tf/2420894
+	KOTH_PRODUCT_RCX												[private]	logs: http://logs.tf/2420912
+	
+
+Week 9: SEMIFINALS
+
+Apolodosh						vs	Fred V: The Brampton Warriors
+	PL_UPWARD														 STVs: 3	logs: http://logs.tf/2425252
+	KOTH_ASHVILLE_RC1												 STVs: 1	logs: http://logs.tf/2425264
+
+Amicitia Nova					vs	:squirtyay:
+	PL_SWIFTWATER_FINAL1											STVs: 1/3	logs: http://logs.tf/2425313
+	KOTH_PRODUCT_RCX												[private]	logs: http://logs.tf/2425336
+	CP_STEEL														 STVs: 2	logs: http://logs.tf/2425314
+	
+	
+Week 10: LOWER BRACKET FINALS
+
+Apolodosh						vs	Amicitia Nova
+	PL_VIGIL_RC6													 STVs: 2	logs: http://logs.tf/2429504
+	CP_STEEL														 STVs: 3	logs: http://logs.tf/2429546
+
+
+Week 11: GRAND FINALS
+
+Fred V: The Brampton Warriors	vs	Amicitia Nova
+	KOTH_ASHVILLE_RC1												 STVs: 1	logs: http://logs.tf/2433108
+	CP_STEEL														 STVs: 2	logs: http://logs.tf/2433144

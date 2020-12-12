@@ -1,0 +1,97 @@
+RGL HL Invite Season 2
+
+
+
+Week 1: KOTH_PRODUCT_RC9
+
+Kids Next Door	vs	Space Force		 STVs: 2	logs: http://logs.tf/2196452
+the Flow		vs	Fast Forward	 STVs: 2	logs: http://logs.tf/2199638
+The Empire		vs	Rewind			[private]	logs: http://logs.tf/2196447
+
+
+Week 2: PL_UPWARD
+
+Kids Next Door	vs	the Flow		[private]	logs: http://logs.tf/2201141 http://logs.tf/2201158
+Fast Forward	vs	The Empire		[private]	logs: http://logs.tf/2201199
+Space Force		vs	Rewind			[private]	logs: http://logs.tf/2201206
+
+
+Week 3A: KOTH_ASHVILLE_RC1
+
+Kids Next Door	vs	Rewind			[private]	logs: http://logs.tf/2206291
+Space Force		vs	Fast Forward	[private]	logs: http://logs.tf/2206300
+the Flow		vs	The Empire		[private]	logs: n/a
+
+
+Week 3B: KOTH_LAKESIDE_FINAL
+
+Kids Next Door	vs	Rewind			[private]	logs: http://logs.tf/2206338
+Space Force		vs	Fast Forward	[private]	logs: http://logs.tf/2206366
+the Flow		vs	The Empire		[private]	logs: n/a
+
+
+Week 4: PL_BORNEO
+
+Kids Next Door	vs	Fast Forward	[private]	logs: http://logs.tf/2211573 http://logs.tf/2211613
+The Empire		vs	Space Force		[private]	logs: http://logs.tf/2211584 http://logs.tf/2211614
+Rewind			vs	the Flow		[private]	logs: http://logs.tf/2211607
+
+
+Week 5: CP_STEEL
+
+The Empire		vs	Kids Next Door	[private]	logs: http://logs.tf/2216628
+Fast Forward	vs	Rewind			[private]	logs: http://logs.tf/2216631
+the Flow		vs	Space Force		[private]	logs: http://logs.tf/2216539 http://logs.tf/2216583
+
+
+Week 6: PLAYOFF QUALS 1
+
+Fast Forward	vs	the Flow
+	PL_SWIFTWATER_FINAL1			 STVs: 3	logs: http://logs.tf/2221668
+
+
+Week 7: PLAYOFF QUALS 2
+
+Space Force		vs	the Flow
+	KOTH_PRODUCT_RC9				 STVs: 1	logs: http://logs.tf/2226669
+	PL_SWIFTWATER_FINAL1			 STVs: 2	logs: http://logs.tf/2226723 http://logs.tf/2226745
+
+
+Week 8: QUARTERFINALS
+
+Rewind			vs	Space Force
+	KOTH_ASHVILLE_RC1				 STVs: 1	logs: http://logs.tf/2231599
+	CP_STEEL						 STVs: 2	logs: http://logs.tf/2231643 http://logs.tf/2231660
+
+Kids Next Door	vs	The Empire
+	PL_BORNEO						 STVs: 2	logs: http://logs.tf/2231610 http://logs.tf/2231626
+	KOTH_PRODUCT_RC9				 STVs: 1	logs: http://logs.tf/2231663
+
+	
+Week 9: SEMIFINALS
+
+The Empire		vs	Space Force
+	PL_SWIFTWATER_FINAL1			 STVs: 2	logs: http://logs.tf/2236718 http://logs.tf/2236759
+	KOTH_PRODUCT_RC9				 STVs: 1	logs: http://logs.tf/2236786
+	KOTH_ASHVILLE_RC1				 STVs: 1	logs: http://logs.tf/2236817
+
+Rewind			vs	Kids Next Door
+	KOTH_PRODUCT_RC9				[private]	logs: http://logs.tf/2206338
+	KOTH_LAKESIDE_FINAL				[private]	logs: http://logs.tf/2236754
+
+	
+Week 10: LOWER BRACKET FINALS
+
+Rewind			vs	The Empire
+	KOTH_LAKESIDE_FINAL				[private]	logs: http://logs.tf/2240146
+	PL_UPWARD						 STVs: 3	logs: http://logs.tf/2240251
+	PL_BORNEO						STVs: 2/3	logs: http://logs.tf/2240252
+
+
+Week 11: GRAND FINALS
+
+Kids Next Door	vs	Rewind
+	PL_BORNEO						 STVs: 2	logs: http://logs.tf/2241782
+	CP_STEEL						 STVs: 3	logs: http://logs.tf/2241783
+	PL_SWIFTWATER_FINAL1			 STVs: 2	logs: http://logs.tf/2241784
+
