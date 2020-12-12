@@ -48,6 +48,10 @@ def download_log_zip(matchid):
     return match_zip
 
 
+def generate_match_log_file_path(season, week, playoff, matchid, part=0):
+    return f"logs/season_{season}_week_{week}_playoff_{int(playoff)}_id_{matchid}_part_{part}.log"
+
+
 # TODO: Determine if a cache/storage mechanism is necessary/useful.
 def match_cached(matchid):
     return False
