@@ -18,15 +18,16 @@ def _get_file_path(matchid, directory):
     return f"{directory}/{matchid}.json"
 
 
-def get_log(matchid, directory="log_json", save_locally=True):
+def get_log(matchid, directory="log_json", save_locally=True, indent=4):
     filepath = _get_file_path(matchid, directory)
     if path.exists(filepath):
         with open(filepath) as f:
-            return json.load(f, object_hook=lambda d: Log(matchid, d, **d))
+            log_json = json.load(f)
+            return Log(matchid, log_json, **log_json)
     json_log = get_match(matchid)
     if save_locally:
         with open(filepath, "w") as f:
-            json.dump(json_log, f)
+            json.dump(json_log, f, indent=indent)
     return Log(matchid, json_log, **json_log)
 
 
@@ -124,11 +125,11 @@ class ClassStat:
 class MedicStats:
     advantages_lost: int
     biggest_advantage_lost: int
-    deaths_with_95_99_uber: int
-    avg_time_before_healing: int
     avg_time_to_build: int
-    avg_time_before_using: int
-    avg_uber_length: int
+    avg_time_before_using: Optional[int] = None
+    avg_uber_length: Optional[int] = None
+    deaths_with_95_99_uber: Optional[int] = None
+    avg_time_before_healing: Optional[int] = None
     deaths_within_20s_after_uber: Optional[int] = None
 
 
