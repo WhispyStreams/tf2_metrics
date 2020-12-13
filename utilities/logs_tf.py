@@ -59,3 +59,7 @@ def match_cached(matchid):
 
 def match_cache(matchid):
     raise NotImplementedError("Match cache not implemented.")
+
+
+def get_file_path(matchid):
+    return f"logs/log_{2114329}.log"
