@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 
 from types import SimpleNamespace
-from typing import List
+from typing import List, Dict, Union
 
 import requests
 
@@ -13,23 +13,195 @@ def get_match(matchid):
 
 
 @dataclass
+class Event:
+    type_: str
+
+
+@dataclass
+class Pointcap(Event):
+    time: int
+    team: str
+    point: int
+
+
+@dataclass
+class Charge(Event):
+    medigun: str
+    time: int
+    steamid: str
+    team: str
+
+
+@dataclass
+class MedicDeath(Event):
+    time: int
+    team: str
+    steamid: str
+    killer: str
+
+
+@dataclass
+class RoundWin(Event):
+    time: int
+    team: str
+
+
+event_types = {
+    "pointcap": Pointcap,
+    "charge": Charge,
+    "medic_death": MedicDeath,
+    "round_win": RoundWin,
+}
+
+
+@dataclass
 class Team:
     color: str
     score: int
     kills: int
+    dmg: int
+    ubers: int = None
+    deaths: int = None
+    charges: int = None
+    drops: int = None
+    firstcaps: int = None
+    caps: int = None
+
+
+@dataclass
+class Player:
+    steamid: str
+    team: str
+    kills: int
+    dmg: int
+    class_stats: Team = None
+    deaths: int = None
+    assists: int = None
+    suicides: int = None
+    kapd: float = None
+    kpd: float = None
+    dmg_real: int = None
+    dt: int = None
+    dt_real: int = None
+    hr: int = None
+    lks: int = None
+    as_: int = None
+    dapd: int = None
+    medkits: int = None
+    medkints_hp: int = None
+    backstabs: int = None
+    headshots: int = None
+    headshots_hit: int = None
+    sentries: int = None
+    heal: int = None
+    cpc: int = None
+    ic: int = None
+
+
+@dataclass
+class Teams:
+    red: Team
+    blu: Team
+
+    def __iter__(self):
+        return [self.red, self.blu]
+
+
+@dataclass
+class Round:
+    start_time: int
+    winner: Team
+    team: Teams
+    events: List[Union[Event, Pointcap, Charge, MedicDeath, RoundWin]]
+    players: Dict[str, Player]
+    firstcap: str
+    length: int
+
+
+@dataclass
+class Weapon:
+    name: str
+    kills: int
+    dmg: int
+    avg_dmg: float
+    shots: int
+    hits: int
+
+
+@dataclass
+class class_stats:
+    type_: str
+    kills: int
+    assists: int
     deaths: int
     dmg: int
-    charges: int
-    drops: int
-    firstcaps: int
-    caps: int
+    weapon: Dict[str, Weapon]
+    total_time: int
+
+
+@dataclass
+class Message:
+    steamid: str
+    name: str
+    msg: str
+
+
+@dataclass
+class Uploader:
+    id_: int
+    name: str
+    info: str
+
+
+@dataclass
+class Info:
+    map_: str
+    supplemental: bool
+    total_length: int
+    hasRealDamage: bool
+    hasWeaponDamage: bool
+    hasAccuracy: bool
+    hasHP: bool
+    hasHP_real: bool
+    hasHS: bool
+    hasHS_hit: bool
+    hasBS: bool
+    hasCP: bool
+    hasSB: bool
+    hasDT: bool
+    hasAR: bool
+    hasIntel: bool
+    AD_scoring: bool
+    notifications: List
+    title: str
+    date: int
+    uploader: Uploader
+
+
+@dataclass
+class Killstreak:
+    steamid: str
+    streak: int
+    time: int
 
 
 @dataclass
 class Log:
     matchid: int
     version: str
-    teams: List[Team]
+    teams: Teams
+    length: int
+    players: Dict[str, Player]
+    names: Dict[str, str]
+    rounds: List[Round]
+    healspread: Dict[str, Dict[str, int]]
+    classkills: Dict[str, Dict[str, int]]
+    classdeaths: Dict[str, Dict[str, int]]
+    classkillassists: Dict[str, Dict[str, int]]
+    chat: List[Message]
+    info: Info
+    killstreaks: List[Killstreak]
+    success: bool
 
 
 def download_log_zip(matchid):
