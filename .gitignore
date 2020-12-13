@@ -130,3 +130,6 @@ dmypy.json
 
 # VSCode
 .vscode
+
+# Json logs
+log_json/*.json
