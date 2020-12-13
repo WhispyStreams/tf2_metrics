@@ -61,5 +61,6 @@ def match_cache(matchid):
     raise NotImplementedError("Match cache not implemented.")
 
 
+# TODO: Clean up magic string for directory path
 def get_file_path(matchid):
     return f"logs/log_{2114329}.log"

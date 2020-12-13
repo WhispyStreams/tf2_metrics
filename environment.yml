@@ -1,0 +1,7 @@
+name: tf2_metrics
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pandas
+  - jupyterlab
